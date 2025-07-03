@@ -1,0 +1,817 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.847772,
+          34.498973
+        ]
+      },
+      "properties": {
+        "遺跡名": "メスリ山",
+        "緯度": "34.49897272",
+        "経度": "135.8477723",
+        "墳形": "前方後円墳",
+        "器種": "普通円筒埴輪",
+        "使用方法": "設置",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.840939,
+          34.571465
+        ]
+      },
+      "properties": {
+        "遺跡名": "馬口山",
+        "緯度": "34.57146462",
+        "経度": "135.8409389",
+        "墳形": "前方後円墳",
+        "器種": "特殊器台",
+        "使用方法": "詳細不明",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.844089,
+          34.57223
+        ]
+      },
+      "properties": {
+        "遺跡名": "マバカ西",
+        "緯度": "34.57223004",
+        "経度": "135.8440887",
+        "墳形": "前方後円墳？",
+        "器種": "円筒埴輪",
+        "使用方法": "設置",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.847966,
+          34.571868
+        ]
+      },
+      "properties": {
+        "遺跡名": "波多子塚",
+        "緯度": "34.57186818",
+        "経度": "135.847966",
+        "墳形": "前方後方墳",
+        "器種": "都月型特殊器台、普通円筒埴輪、鰭付円筒埴輪、楕円筒埴輪",
+        "使用方法": "設置",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.848232,
+          34.566182
+        ]
+      },
+      "properties": {
+        "遺跡名": "中山大塚",
+        "緯度": "34.56618194",
+        "経度": "135.848232",
+        "墳形": "前方後円墳",
+        "器種": "宮山型特殊器台、都月型特殊器台、普通円筒埴輪",
+        "使用方法": "設置",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.849133,
+          34.566916
+        ]
+      },
+      "properties": {
+        "遺跡名": "燈籠山",
+        "緯度": "34.56691574",
+        "経度": "135.849133",
+        "墳形": "前方後円墳",
+        "器種": "普通円筒埴輪",
+        "使用方法": "設置",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.851011,
+          34.568336
+        ]
+      },
+      "properties": {
+        "遺跡名": "西殿塚",
+        "緯度": "34.56833621",
+        "経度": "135.8510108",
+        "墳形": "前方後円墳",
+        "器種": "宮山型特殊器台、都月型特殊器台、普通円筒埴輪",
+        "使用方法": "設置",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.852854,
+          34.568793
+        ]
+      },
+      "properties": {
+        "遺跡名": "東殿塚",
+        "緯度": "34.56879268",
+        "経度": "135.852854",
+        "墳形": "前方後円墳",
+        "器種": "鰭付円筒埴輪、楕円筒埴輪",
+        "使用方法": "設置",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.84908,
+          34.557465
+        ]
+      },
+      "properties": {
+        "遺跡名": "行燈山",
+        "緯度": "34.55746503",
+        "経度": "135.8490803",
+        "墳形": "前方後円墳",
+        "器種": "普通円筒埴輪、楕円筒埴輪",
+        "使用方法": "設置",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.852093,
+          34.556857
+        ]
+      },
+      "properties": {
+        "遺跡名": "櫛山",
+        "緯度": "34.55685681",
+        "経度": "135.8520929",
+        "墳形": "前方後円墳",
+        "器種": "普通円筒埴輪、鰭付円筒埴輪、楕円筒埴輪",
+        "使用方法": "設置",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.847352,
+          34.552332
+        ]
+      },
+      "properties": {
+        "遺跡名": "上の山",
+        "緯度": "34.55233236",
+        "経度": "135.8473521",
+        "墳形": "前方後円墳",
+        "器種": "鰭付円筒埴輪",
+        "使用方法": "設置",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.84876,
+          34.550658
+        ]
+      },
+      "properties": {
+        "遺跡名": "渋谷向山",
+        "緯度": "34.55065766",
+        "経度": "135.8487599",
+        "墳形": "前方後円墳",
+        "器種": "普通円筒埴輪、鰭付円筒埴輪",
+        "使用方法": "設置",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7852,
+          34.706459
+        ]
+      },
+      "properties": {
+        "遺跡名": "五社神",
+        "緯度": "34.70645918",
+        "経度": "135.7852004",
+        "墳形": "前方後円墳",
+        "器種": "普通円筒埴輪、鰭付円筒埴輪",
+        "使用方法": "設置",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.788998,
+          34.699769
+        ]
+      },
+      "properties": {
+        "遺跡名": "佐紀陵山",
+        "緯度": "34.69976895",
+        "経度": "135.7889983",
+        "墳形": "前方後円墳",
+        "器種": "鰭付円筒埴輪など",
+        "使用方法": "設置",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.791135,
+          34.700241
+        ]
+      },
+      "properties": {
+        "遺跡名": "佐紀瓢箪山",
+        "緯度": "34.70024087",
+        "経度": "135.7911348",
+        "墳形": "前方後円墳",
+        "器種": "円筒埴輪",
+        "使用方法": "設置",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.78969,
+          34.701268
+        ]
+      },
+      "properties": {
+        "遺跡名": "マエ塚",
+        "緯度": "34.70126774",
+        "経度": "135.7896895",
+        "墳形": "円墳",
+        "器種": "鰭付円筒埴輪",
+        "使用方法": "設置、埴輪棺",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.813448,
+          34.696359
+        ]
+      },
+      "properties": {
+        "遺跡名": "不退寺裏山",
+        "緯度": "34.69635878",
+        "経度": "135.8134478",
+        "墳形": "前方後円墳",
+        "器種": "円筒埴輪",
+        "使用方法": "設置",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.854315,
+          34.691113
+        ]
+      },
+      "properties": {
+        "遺跡名": "鶯塚",
+        "緯度": "34.6911128",
+        "経度": "135.8543148",
+        "墳形": "前方後円墳",
+        "器種": "円筒埴輪",
+        "使用方法": "設置",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.839798,
+          34.619503
+        ]
+      },
+      "properties": {
+        "遺跡名": "赤土山",
+        "緯度": "34.61950276",
+        "経度": "135.8397978",
+        "墳形": "前方後方墳",
+        "器種": "普通円筒埴輪、鰭付円筒埴輪",
+        "使用方法": "設置",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.84332,
+          34.592451
+        ]
+      },
+      "properties": {
+        "遺跡名": "西山",
+        "緯度": "34.59245113",
+        "経度": "135.8433199",
+        "墳形": "前方後方墳",
+        "器種": "普通円筒埴輪、鰭付円筒埴輪、朝顔形埴輪",
+        "使用方法": "埴輪棺",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.837868,
+          34.621462
+        ]
+      },
+      "properties": {
+        "遺跡名": "東大寺山",
+        "緯度": "34.62146193",
+        "経度": "135.8378678",
+        "墳形": "前方後円墳",
+        "器種": "普通円筒埴輪、鰭付円筒埴輪",
+        "使用方法": "設置",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.835086,
+          34.620158
+        ]
+      },
+      "properties": {
+        "遺跡名": "和爾下神社",
+        "緯度": "34.62015821",
+        "経度": "135.8350855",
+        "墳形": "前方後円墳",
+        "器種": "円筒埴輪",
+        "使用方法": "設置、埴輪棺",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.841178,
+          34.539297
+        ]
+      },
+      "properties": {
+        "遺跡名": "箸墓",
+        "緯度": "34.53929706",
+        "経度": "135.8411784",
+        "墳形": "前方後円墳",
+        "器種": "宮山型特殊器台、都月型特殊器台",
+        "使用方法": "設置",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.769671,
+          34.469784
+        ]
+      },
+      "properties": {
+        "遺跡名": "新沢500号",
+        "緯度": "34.4697842",
+        "経度": "135.7696711",
+        "墳形": "前方後円墳",
+        "器種": "鰭付円筒埴輪",
+        "使用方法": "埴輪棺",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.735611,
+          34.532462
+        ]
+      },
+      "properties": {
+        "遺跡名": "新山",
+        "緯度": "34.53246235",
+        "経度": "135.7356111",
+        "墳形": "前方後方墳",
+        "器種": "普通円筒埴輪",
+        "使用方法": "埴輪棺",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.726459,
+          34.556206
+        ]
+      },
+      "properties": {
+        "遺跡名": "佐味田宝塚",
+        "緯度": "34.556206",
+        "経度": "135.7264588",
+        "墳形": "前方後円墳",
+        "器種": "鰭付円筒埴輪",
+        "使用方法": "設置",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.740769,
+          34.556118
+        ]
+      },
+      "properties": {
+        "遺跡名": "巣山",
+        "緯度": "34.55611754",
+        "経度": "135.7407693",
+        "墳形": "前方後円墳",
+        "器種": "円筒埴輪",
+        "使用方法": "設置",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.70364,
+          34.672101
+        ]
+      },
+      "properties": {
+        "遺跡名": "竹林寺",
+        "緯度": "34.67210084",
+        "経度": "135.7036404",
+        "墳形": "前方後円墳",
+        "器種": "円筒埴輪",
+        "使用方法": "設置",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75213,
+          34.66649
+        ]
+      },
+      "properties": {
+        "遺跡名": "富雄丸山",
+        "緯度": "34.66649035",
+        "経度": "135.7521301",
+        "墳形": "円墳",
+        "器種": "普通円筒埴輪、鰭付円筒埴輪、楕円筒埴輪",
+        "使用方法": "設置",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_iconAnchor": [
+          5,
+          5
+        ]
+      }
+    }
+  ]
+}
